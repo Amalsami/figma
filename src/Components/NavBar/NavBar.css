@@ -1,0 +1,12 @@
+.nav {
+  background-color: white !important;
+}
+.logo {
+  width: 160px;
+}
+.links {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  text-decoration: none;
+}
